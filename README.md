@@ -121,7 +121,7 @@ pip install evaluate transformer_lens circuitsvis
 ## Project Structure
 
 ```
-AICourse_FinalProject_.ipynb   # Main notebook
+benchmark_ML.ipynb   # Main notebook
 output/
   results_summary.csv
   popqa_tier_results.csv
